@@ -5,18 +5,19 @@ Name: [Tom Tobin]
 
 ## Overview.
 
-[ A paragraph on your React app's concept followed by a bullet-point list of its feature set - only list new/modified features if you are expanding the Movies app. ]
+[ A React app for  Movie enthusiasts which use an open web API, The Movie DataBase, is the data source for the app. Storybook is a tool for developing individual components ]
 
-e.g. 
-+ Feature 1
-+ Feature 2
-+ Feature 3
+The app contains the following extra features developed from the orignal app developed as part of Lab submission. 
++ Must Waatch: page contains a list of must watch movies. Movies listed in the home page are marked using the favourite menu and will then display in the muest watch page. 
++ Popular: page contains list fo popular moves as suppled by the TMDB api based on current views by userbase.
++ Similar: page contains a list of similar movies.
 + etc
 + etc
 
 ## Setup requirements.
 
-[ Briefly state (to a third party) the setup steps necessary to run your app/client locally, e.g. .env and any other config files.]
+[ Download zip file of project to your local location. Open in a sutiable tool suce as Visual Studio Code. From a new terminal window (ensure file pathc is correct) run the command npm install. Once installed use the command "npm start" which transpiles any JSX and ES6 code in the src folder and the app will start on localhost3000. Use the app as required to find movies etc.
+To use Storybook (used for developing individual componnts stop the app if running using "ctrl + c" and the run the command "npm run storybook" which will start storybook)  ]
 
 ## App Design.
 
@@ -84,7 +85,7 @@ platform your app uses (e.g. TMDB lists, Firestore) and itemize the data it pers
 
 ## Independent learning (if relevant),
 
-[Briefly explain any aspects of your assignment work that required independent learning (i.e. not addressed in the lectures or labs) on your behalf., e.g. 3rd-party components, libraries, tools. Include source code references.]
+[Not applicable.]
 
 [d1]: ./public/discover1.png
 [d2]: ./public/discover2.png
