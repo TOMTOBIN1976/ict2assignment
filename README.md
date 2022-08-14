@@ -59,6 +59,8 @@ e.g.
 
 [ List the TMDB server state cached by the app. Include a screenshot(s) of the react-query dev tools to validate your list.]
 
+./public/popularPageCacheDevTools.png
+
 e.g.
 + Discover movies (pagination support)
 + Movie details
