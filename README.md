@@ -81,7 +81,7 @@ platform your app uses (e.g. TMDB lists, Firestore) and itemize the data it pers
 
 ## Additional features (if relevant),
 
-[Mention any additional user features of your app that may not be obvious from the previous sections, e.g. pagination, extended filtering/sorting, searching.]
+Not applicable.
 
 ## Independent learning (if relevant),
 
