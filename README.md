@@ -16,8 +16,9 @@ The app contains the following extra features developed from the orignal app dev
 
 ## Setup requirements.
 
-[ Download zip file of project to your local location. Open in a sutiable tool suce as Visual Studio Code. From a new terminal window (ensure file pathc is correct) run the command npm install. Once installed use the command "npm start" which transpiles any JSX and ES6 code in the src folder and the app will start on localhost3000. Use the app as required to find movies etc.
-To use Storybook (used for developing individual componnts stop the app if running using "ctrl + c" and the run the command "npm run storybook" which will start storybook)  ]
+[ Download zip file of project to your local location. Open in a sutiable tool suce as Visual Studio Code. From a new terminal window (ensure file pathc is correct) run the command npm install. Update the .env file (add it required) with your api key value.
+Once installed use the command "npm start" which transpiles any JSX and ES6 code in the src folder and the app will start on localhost3000. Use the app as required to find movies etc.
+To use Storybook (used for developing individual componnts stop the app if running using "ctrl + c" and the run the command "npm run storybook" which will start storybook). To install strou book runt he command "npm install storybook/react".  ]
 
 ## App Design.
 
@@ -68,16 +69,18 @@ e.g.
 
 ## Authentication (if relevant).
 
-[Briefly state how you implemented authentication for the app, e.g. basic, Firebase, etc. Also, list the routes that are private/protected.]
+Basic Authentication used in app.
+Routes as follows:
 
-e.g.
-+ /reviews/:id
++ /movies/upcoming
 + /movies/favourites
++ /movies/mustwatch
++ /movies/popular
++ /movies/similar
 
 ## Server-side persistence (if relevant)
 
-[ Specify the persistence 
-platform your app uses (e.g. TMDB lists, Firestore) and itemize the data it persists.]
+TMDB lists.
 
 ## Additional features (if relevant),
 
@@ -85,7 +88,7 @@ Not applicable.
 
 ## Independent learning (if relevant),
 
-[Not applicable.]
+Not applicable.
 
 [d1]: ./public/discover1.png
 [d2]: ./public/discover2.png
