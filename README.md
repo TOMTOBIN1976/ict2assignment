@@ -61,6 +61,8 @@ e.g.
 
 ./public/popularPageCacheDevTools.png
 
+![popularPageCacheDevTools](https://user-images.githubusercontent.com/76400608/184532970-fa5468e6-889b-4e3e-aa1f-c4b3ef9a313e.png![po)
+
 e.g.
 + Discover movies (pagination support)
 + Movie details
