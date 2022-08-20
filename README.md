@@ -24,6 +24,9 @@ To use Storybook (used for developing individual components stop the app if runn
 
 ## App Design.
 
+Client-side rendering web application developed using the REACT.js framework, npm, storybook, visual studio code.
+Carries on from the app developed in lab work.
+
 ### Routing/Navigation.
 
 [List the set of routes your app supports - only mention new instances if you expanded the Movies Fan app. State the view linked with each route.] 
@@ -37,8 +40,6 @@ e.g.
 ### Views/Pages.
 
 [ For each view in your app, show a screenshot and caption - only new/modified ones in the case of the Movies Fan app. If necessary, use multiple screenshots to cover a view's full capability.
-
-
 
 Popular page view: Lists movies from the popular endpoint. Filtering on title and genre attributes is supported.
 
@@ -54,7 +55,6 @@ https://user-images.githubusercontent.com/76400608/185753406-4a2bf9a4-5a9b-486e-
 Initial app Storybook components used.
 
 https://user-images.githubusercontent.com/76400608/185754443-e41d2809-8562-4b45-ae33-ebed64b09b8a.PNG
-
 
 
 ## Caching.
@@ -92,7 +92,7 @@ Not applicable.
 
 Not applicable.
 
-[d1]: ./public/discover1.png
+[d1]: ./public/popular_movies_page.png
 [d2]: ./public/discover2.png
 [detail]: ./public/detail.png
 [caching]: ./public/caching.png
