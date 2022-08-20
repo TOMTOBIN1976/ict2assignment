@@ -36,24 +36,24 @@ e.g.
 
 [ For each view in your app, show a screenshot and caption - only new/modified ones in the case of the Movies Fan app. If necessary, use multiple screenshots to cover a view's full capability.
 
-e.g.
->Lists movies from the Discover endpoint. Filtering on title and genre attributes is supported.
 
-![][d1]
 
-![][d2]
+Popular page view: Lists movies from the popular endpoint. Filtering on title and genre attributes is supported.
 
->Shows detailed information on a specific movie
+https://user-images.githubusercontent.com/76400608/185753235-86dc7941-0784-4d79-b5c5-fc7e9f1af47a.PNG
 
-![][detail]
 
+Similar Page view:
+Lists movies from the popular endpoint. Filtering on title and genre attributes is supported.
+https://user-images.githubusercontent.com/76400608/185753406-4a2bf9a4-5a9b-486e-992e-351de662dfb8.PNG
 
 ### Component catalogue.
 
-[ Use the Storybook UI to highlight the new components for which you developed stories.]
-e.g.
+Initial app Storybook components used.
 
-![][stories]
+https://user-images.githubusercontent.com/76400608/185754443-e41d2809-8562-4b45-ae33-ebed64b09b8a.PNG
+
+
 
 ## Caching.
 
@@ -66,10 +66,6 @@ https://user-images.githubusercontent.com/76400608/184532970-fa5468e6-889b-4e3e-
 e.g.
 + Discover movies (pagination support)
 + Movie details
- + etc
-+ etc
-
-![][caching]
 
 ## Authentication (if relevant).
 
