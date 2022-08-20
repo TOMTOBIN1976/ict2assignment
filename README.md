@@ -11,14 +11,16 @@ The app contains the following extra features developed from the orignal app dev
 + Must Waatch: page contains a list of must watch movies. Movies listed in the home page are marked using the favourite menu and will then display in the muest watch page. 
 + Popular: page contains list fo popular moves as suppled by the TMDB api based on current views by userbase.
 + Similar: page contains a list of similar movies.
-+ etc
-+ etc
 
 ## Setup requirements.
 
-[ Download zip file of project to your local location. Open in a sutiable tool suce as Visual Studio Code. From a new terminal window (ensure file pathc is correct) run the command npm install. Update the .env file (add it required) with your api key value.
-Once installed use the command "npm start" which transpiles any JSX and ES6 code in the src folder and the app will start on localhost3000. Use the app as required to find movies etc.
-To use Storybook (used for developing individual componnts stop the app if running using "ctrl + c" and the run the command "npm run storybook" which will start storybook). To install strou book runt he command "npm install storybook/react".  ]
+Download zip file of project to your local location. 
+Open in a sutiable tool suce as Visual Studio Code. 
+From a new terminal window (ensure file path is correct), run the command npm install. 
+Update the .env file (add your TMD API key).
+Once npm is installed use the command "npm start" which transpiles any JSX and ES6 code in the src folder and the app will start on localhost3000. Use the app as required to find movies etc.
+To install storybook run he command "npm install storybook/react". 
+To use Storybook (used for developing individual components stop the app if running using "ctrl + c" and the run the command "npm run storybook" which will start storybook).
 
 ## App Design.
 
