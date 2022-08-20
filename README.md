@@ -91,9 +91,4 @@ Not applicable.
 ## Independent learning (if relevant),
 
 Not applicable.
-
-[d1]: ./public/popular_movies_page.png
-[d2]: ./public/discover2.png
-[detail]: ./public/detail.png
-[caching]: ./public/caching.png
-[stories]: ./public/stories.png
+./public/popular_movies_page.png
