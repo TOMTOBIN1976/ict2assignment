@@ -91,4 +91,3 @@ Not applicable.
 ## Independent learning (if relevant),
 
 Not applicable.
-./public/popular_movies_page.png
