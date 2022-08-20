@@ -61,8 +61,6 @@ https://user-images.githubusercontent.com/76400608/185754443-e41d2809-8562-4b45-
 
 [ List the TMDB server state cached by the app. Include a screenshot(s) of the react-query dev tools to validate your list.]
 
-./public/popularPageCacheDevTools.png
-
 https://user-images.githubusercontent.com/76400608/184532970-fa5468e6-889b-4e3e-aa1f-c4b3ef9a313e.png
 
 e.g.
