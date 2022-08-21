@@ -46,13 +46,14 @@ Carries on from the app developed in lab work.
 
 ### Routing/Navigation.
 
-[List the set of routes your app supports - only mention new instances if you expanded the Movies Fan app. State the view linked with each route.] 
+List of routes app supports. State the view linked with each route.] 
 
 e.g.
 + /movies/:id - detailed information on a specific movie.
 + /movies/upcoming - lists movies soon to be shown in cinemas.
-+ etc.
-+ etc.
++ /movies/mustwatch - lists movies classified as must watch, user selects the favourite movies and it is the listed as mutch watch
++ /movies/popular - lists movies classified as popular
++ /movies/similar - lists movies classified as similar
 
 ### Views/Pages.
 
