@@ -16,15 +16,23 @@ An open web API, The Movie DataBase (https://developers.themoviedb.org/3/getting
 
 ## Setup requirements.
 
-Download zip file of project to your local location. 
+Download zip file of project to your local location.
+
 Open in a sutiable tool suce as Visual Studio Code. 
+
 From a new terminal window (ensure file path is correct), run the command npm install.
+
 The app communicates with The TMDB API. An API Key authenticates all requests to the API. 
+
 Signup for an account at https://www.themoviedb.org/signup.
+
 Once logged in get the API key as follows: "Settings > API > Create > Click on Request an API > Click "Developer" > Fill in Details"
 Update the .env file (with your API key).
+
 Once npm is installed use the command "npm start" which transpiles any JSX and ES6 code in the src folder and the app will start on localhost3000. Use the app as required to find movies etc.
+
 To install storybook run he command "npm install storybook/react". 
+
 To use Storybook (used for developing individual components stop the app if running using "ctrl + c" and the run the command "npm run storybook" which will start storybook).
 
 ## App Design.
