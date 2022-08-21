@@ -48,7 +48,6 @@ Carries on from the app developed in lab work.
 
 List of routes app supports. State the view linked with each route.] 
 
-e.g.
 + /movies/:id - detailed information on a specific movie.
 + /movies/upcoming - lists movies soon to be shown in cinemas.
 + /movies/mustwatch - lists movies classified as must watch, user selects the favourite movies and it is the listed as mutch watch
@@ -81,7 +80,6 @@ https://user-images.githubusercontent.com/76400608/185754443-e41d2809-8562-4b45-
 
 https://user-images.githubusercontent.com/76400608/184532970-fa5468e6-889b-4e3e-aa1f-c4b3ef9a313e.png
 
-e.g.
 + Discover movies (pagination support)
 + Movie details
 
