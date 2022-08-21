@@ -76,7 +76,9 @@ https://user-images.githubusercontent.com/76400608/185754443-e41d2809-8562-4b45-
 
 ## Caching.
 
-List the TMDB server state cached by the app. Include a screenshot(s) of the react-query dev tools to validate your list.
+List the TMDB server state cached by the app. 
+
+Re-requesting API data every time a component remounts is avoided by caching. When a component (re)mounts as caching is enabled, it first checks the local cache for its API data. If the data is there, it uses it; otherwise, it makes an API call. Examples of cache in use below.
 
 https://user-images.githubusercontent.com/76400608/184532970-fa5468e6-889b-4e3e-aa1f-c4b3ef9a313e.png
 
