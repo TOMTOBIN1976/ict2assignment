@@ -12,6 +12,8 @@ The app contains the following extra features developed from the orignal app dev
 + Popular: page contains list fo popular moves as suppled by the TMDB api based on current views by userbase.
 + Similar: page contains a list of similar movies.
 
+An open web API, The Movie DataBase (https://developers.themoviedb.org/3/getting-started/introduction), is the data source for the app.
+
 ## Setup requirements.
 
 Download zip file of project to your local location. 
