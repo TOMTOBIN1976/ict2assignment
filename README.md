@@ -14,6 +14,10 @@ The app contains the following extra features developed from the orignal app dev
 
 An open web API, The Movie DataBase (https://developers.themoviedb.org/3/getting-started/introduction), is the data source for the app.
 
+Individual componets are developed as stories and can be viewed using storybook (details on running storybook detailed in setup requirements section below)
+
+Storybook - is a development environment for React components. This allows components to be developed and tested individually.
+
 ## Setup requirements.
 
 Download zip file of project to your local location.
