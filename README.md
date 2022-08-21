@@ -5,7 +5,7 @@ Name: [Tom Tobin]
 
 ## Overview.
 
-[ A React app for  Movie enthusiasts which use an open web API, The Movie DataBase, is the data source for the app. Storybook is a tool for developing individual components ]
+A React app for  Movie enthusiasts which use an open web API, The Movie DataBase, is the data source for the app. Storybook is a tool for developing individual components.
 
 The app contains the following extra features developed from the orignal app developed as part of Lab submission. 
 + Must Waatch: page contains a list of must watch movies. Movies listed in the home page are marked using the favourite menu and will then display in the muest watch page. 
@@ -56,7 +56,7 @@ List of routes app supports. State the view linked with each route.]
 
 ### Views/Pages.
 
-[ For each view in your app, show a screenshot and caption - only new/modified ones in the case of the Movies Fan app. If necessary, use multiple screenshots to cover a view's full capability.
+Views in app, (screenshots - click link) of new/modified views.
 
 Popular page view: Lists movies from the popular endpoint. Filtering on title and genre attributes is supported.
 
@@ -76,7 +76,7 @@ https://user-images.githubusercontent.com/76400608/185754443-e41d2809-8562-4b45-
 
 ## Caching.
 
-[ List the TMDB server state cached by the app. Include a screenshot(s) of the react-query dev tools to validate your list.]
+List the TMDB server state cached by the app. Include a screenshot(s) of the react-query dev tools to validate your list.
 
 https://user-images.githubusercontent.com/76400608/184532970-fa5468e6-889b-4e3e-aa1f-c4b3ef9a313e.png
 
